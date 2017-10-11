@@ -1,2 +1,0 @@
-# KXNewVersionCheck
-检查APP版本是否为最新版本，提示用户进入AppStore进行更新
